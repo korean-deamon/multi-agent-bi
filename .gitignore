@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+.venv
+# Google credentials (ENG MUHIM)
+credentials.json
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
